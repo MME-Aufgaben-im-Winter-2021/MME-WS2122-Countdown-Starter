@@ -12,7 +12,7 @@ Für die Implementierung der Aufgabe sollten Sie mindestens _Pair Programming_-S
 
 (Wechsel zwischen Driver und Navigator nach jeweils ca. 30 Minuten)
 
-#### Geplante Features
+#### Geplant war die Bearbeitung dieser Features
 
 - Buchstabeauswahl durch die Nutzer\*innen \[**abgeschlosse**\]
 - Start der Raterune, Freigabe des Eingabefelds und Animation der Uhr \[**abgeschlossen**\]
